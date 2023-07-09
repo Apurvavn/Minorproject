@@ -16,4 +16,4 @@ Conclusion:
 The responsive news showcase website offers an engaging and user-friendly platform for users to recent newws
 This website only has its frontend developed, the backend will be developed soon
 
-Than you for givinf your valuable time
+Than you for giving your valuable time
